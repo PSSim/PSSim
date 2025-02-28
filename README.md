@@ -1,4 +1,4 @@
-PSSim stands for Power System Simulator
+# PSSim: Power System Simulator
 
 Created by SPEED lab at The University of Tennessee, Knoxville.
 
