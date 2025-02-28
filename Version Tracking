@@ -1,0 +1,32 @@
+PSSim: Power System Simulator
+HP Team, University of Tennessee, Knoxville
+————————————————————————————————————
+ v1.0
+Considers only classical model for generators
+ADD all functionalities
+Fixed number of variables related to one type of model
+
+v1.1
+- Considers two axis models for generators
+
+v1.2
+- Adds AVR model (IEEE Type 1) to generators
+
+v1.3 
+- Adds GOV model (IEESGO) to generators
+
+v1.4
+- Adds generator outage event
+
+————————————————————————————————————
+v2.0 
+- Generator Type 0: Classical model + no AVR + no GOV.
+- Add limits to GOV model
+- Model generalization: use an index to define model type (1, 2, 3) for AVR and GOV
+- Added data for 1 extra GOV
+- Added data for 1 extra AVR
+- Plot tool to easy access for plotting variables of interest
+- Info variable tool: based on index vector give information of related state variables (ex: y2, Generator 5, Bus 10)
+- Find out: models, equations, and typical data for GOV and AVR
+- Add PMU equations
+- Add generator outage event (modify h, and other functions)
