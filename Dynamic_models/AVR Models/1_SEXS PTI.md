@@ -1,5 +1,5 @@
 # Simplified Excitation System (SEXS) PTI
-Short description
+This model corresponds to a simplified excitation system.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/31a4eabf-1fac-4108-b910-41dad3ed3026" width="400">
