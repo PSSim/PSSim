@@ -1,7 +1,7 @@
 # Two-axis SG Model
 This model represents the direct and quadrature sub-transient flux linkage dynamics. The equivalent circuit that connects the model with the grid is shown below:
 <div align="center">
-  <img src="Screen Shot 2025-03-01 at 12 23 11 PM](https://github.com/user-attachments/assets/75a24796-5f71-47a9-a30c-86c14d23b3ac" width="400">
+  <img src="https://github.com/user-attachments/assets/091e0d30-ed42-4bc8-913c-f5be5dc77b79" width="700">
 </div>
 
 # Equations
@@ -11,8 +11,26 @@ $$
 \frac{d\delta}{dt} = \omega_s(\omega - \omega_{ref})
 $$
 
+$$
+2H \frac{d\omega}{dt} = (T_m - E^{\prime}_d i_d - E^{\prime}_q i_q - (X^{\prime}_q - X^{\prime}_d)i_d i_q) 
+$$
+
+$$
+T'_{d0} \frac{dE^{\prime}_q}{dt} = -E'_q - (X_d - X'_d) i_d + E_{fd}
+$$
+
+$$
+T'_{q0} \frac{dE^{\prime}_d}{dt} = -E'_d - (X_q - X'_q) i_q
+$$
+
+$$
+
+$$
+
+
+
 # Typical Data
-List of typical parameters below:
+A list of typical parameters is below:
 
 
 # References
