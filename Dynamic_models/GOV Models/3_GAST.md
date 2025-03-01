@@ -27,6 +27,22 @@ x_{g1-sat} =
     P_{max}, & P_{\text{max}} < x_{g1} 
 \end{cases}
 $$
+# Typical Data
+A list of typical parameters is shown below:
+
+$$
+\begin{align}
+T_1 &= 0.25 \\
+T_2 &= 0.25 \\
+T_3 &= 2.50 \\\
+K_1 &= 20 \\
+D_t &= 0.25 \\
+A_t &= Pmax \\
+K_t &= 2.50 \\
+P_{min} &= 0.00 \\
+P_{max} &= 10.00 \\
+\end{align}
+$$
 
 # Reference
 [**NEPLANv555Governor**]  NEPLAN AG. Turbine-governor Models. Standard Dynamic Excitation Systems in NEPLAN Power System Analysis Tool. Retrieved [March 2025] from https://www.neplan.ch/wp-content/uploads/2015/08/Nep_TURBINES_GOV.pdf
