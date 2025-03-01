@@ -32,7 +32,7 @@ E'_q = V_t \cos(\delta - \theta) + R_s i_q + X'_d i_d
 $$
 
 # Typical Data
-A list of typical parameters is below:
+A list of typical parameters is shown below:
 
 $$
 \begin{aligned}
@@ -50,4 +50,4 @@ $$
 # References
 [**Pulgar2020Power**] Pulgar, H. A. (2020, Spring). Part 2: Power system models [Lecture slides]. ECE-692 Advanced Power System Modeling and Analysis, University of Tennessee, Knoxville.
 
-[**Sauer2017Power**] Sauer, P. W., Pai, M. A., & Chow, J. H. (2017). Power system dynamics and stability: with synchrophasor measurement and power system toolbox. John Wiley & Sons.
+Sauer, P. W., Pai, M. A., & Chow, J. H. (2017). Power system dynamics and stability: with synchrophasor measurement and power system toolbox. John Wiley & Sons.
