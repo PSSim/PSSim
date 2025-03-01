@@ -1,4 +1,4 @@
-# SEXS PTI Exciter
+# Simplified Excitation System (SEXS) PTI
 Short description
 
 <div align="center">
