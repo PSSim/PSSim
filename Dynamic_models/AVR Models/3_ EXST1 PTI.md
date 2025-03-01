@@ -1,5 +1,5 @@
 # IEEE Type ST1 Excitation System Model
-Short description
+The IEEE ST1 excitation model represents a system in which the excitation power is supplied through a transformer from the generator terminals and is regulated by a controlled rectifier.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/87670413-20b8-466e-8e0a-1e1caddf3957" width="600">
@@ -53,6 +53,8 @@ I_{fd}  = i_d x_q +i_qR_s + v_q
 $$
 
 Note: $I_{fd}$ is the field current associated with $E_{fd}$, while $i_d$ and $i_q$ are the injected currents at the point of interconnection.
+
+# Typical Data
 
 
 # Reference
