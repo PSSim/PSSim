@@ -1,7 +1,7 @@
 # Two-axis SG Model
 This model represents the direct and quadrature sub-transient flux linkage dynamics. The equivalent circuit that connects the model with the grid is shown below:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/091e0d30-ed42-4bc8-913c-f5be5dc77b79" width="700">
+  <img src="https://github.com/user-attachments/assets/c6e94602-22ba-47e8-b4df-bc4d72d4a708" width="700">
 </div>
 
 # Equations
