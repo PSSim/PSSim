@@ -4,6 +4,8 @@ Short Description
   <img src="https://github.com/user-attachments/assets/5cb04ebc-7cc9-4ebb-996f-bde774c5ce2a" width="500">
 </div>
 
+# Turbine-Governor System Equations
+The following equations describe the turbine-governor system:
 
 $$ 
 T_1 \dot{y}_1 = -y_1 + K_1 (\omega - 1) 
