@@ -12,26 +12,40 @@ $$
 $$
 
 $$
-2H \frac{d\omega}{dt} = (T_m - E^{\prime}_d i_d - E^{\prime}_q i_q - (X^{\prime}_q - X^{\prime}_d)i_d i_q) 
+2H \frac{d\omega}{dt} = (T_m - E'_d i_d - E'_q i_q - (X'_q - X'_d)i_d i_q) 
 $$
 
 $$
-T'_{d0} \frac{dE^{\prime}_q}{dt} = -E'_q - (X_d - X'_d) i_d + E_{fd}
+T'_{d0} \frac{dE'_q}{dt} = -E'_q - (X_d - X'_d) i_d + Efd
 $$
 
 $$
-T'_{q0} \frac{dE^{\prime}_d}{dt} = -E'_d - (X_q - X'_q) i_q
+T'_{q0} \frac{dE'_d}{dt} = -E'_d - (X_q - X'_q) i_q
 $$
 
 $$
-
+E'_d = V_t \sin(\delta - \theta) + R_s i_d - X'_q i_q
 $$
 
-
+$$
+E'_q = V_t \cos(\delta - \theta) + R_s i_q + X'_d i_d
+$$
 
 # Typical Data
 A list of typical parameters is below:
 
+$$
+\begin{aligned}
+H &= 10  \\
+R_s &= 0.00  \\
+X_d &= 0.25  \\
+X'_d &= 0.05 \\
+X_q &= 0.20 \\
+X'_q &= 0.10 \\
+T'_d0 &= 5.00 \\
+T'_q0 &= 1.50 \\
+\end{aligned}
+$$
 
 # References
 [] ...
