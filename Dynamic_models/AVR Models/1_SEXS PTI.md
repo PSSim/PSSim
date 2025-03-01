@@ -24,8 +24,20 @@ $$
 Note: $E_{fd-sat}$ connects the SGs model with the exciter. 
 
 # Typical Data
+A list of typical parameters is shown below:
 
+$$
+\begin{align}
+K_a &= 20 \\
+T_a &= 6.00 \\
+T_e &= 0.314 \\
+T_b &= 12.5 \\
+V_{min} &= 0.00 \\
+V_{max} &= 3.00 \\
+\end{align}
+$$
 
-# Reference
+# References
 [**Powerworld2025SEXSPTI**] PowerWorld Corporation. SEXS_PTI exciter model. PowerWorld. Retrieved [March 2025] from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Exciter%20SEXS_PTI.htm
+
 [**NEPLANv555Exciter**] NEPLAN AG. Exciter Models. Standard Dynamic Excitation Systems in NEPLAN Power System Analysis Tool. Retrieved [March 2025] from https://www.neplan.ch/wp-content/uploads/2015/08/Nep_EXCITERS1.pdf
