@@ -1,6 +1,6 @@
 # Gas Turbine-Governor (GAST) Model
 
-Short description
+The GAST governor model represents the dynamic behavior of a gas turbine speed governor, which regulates fuel flow. It operates by sensing speed deviations from a reference setpoint and adjusting the fuel valve accordingly, incorporating droop control to balance system frequency. The model includes a primary speed control loop, fuel system dynamics with transport delays, and actuator and valve constraints.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e0af684c-1428-4fc2-80e7-772a7fdc31e2" width="500">
