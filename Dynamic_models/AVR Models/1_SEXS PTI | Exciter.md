@@ -11,3 +11,7 @@ The following equations describe the excitation system:
 $$
 \frac{dE_{fd}}{dt} = \frac{1}{T_{e}} \left( K_{a} \left( V_{r} + \frac{T_{a}}{T_{b}} (V_{ref}-V_{t}) \right) -E_{fd} \right)
 $$
+
+$$
+\frac{V_{r}}{dt} = \frac{1}{T_{b}} \left( \left( 1-\frac{T_{a}}{T_{b}}\right) \left( V_{ref}-V_{t} \right) - V_{r} \right)
+$$
