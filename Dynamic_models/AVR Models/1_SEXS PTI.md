@@ -23,5 +23,9 @@ $$
 
 Note: $E_{fd-sat}$ connects the SGs model with the exciter. 
 
+# Typical Data
+
+
 # Reference
-[**Powerworld2025SEXSPTI**] PowerWorld Corporation. SEXS_PTI exciter model. PowerWorld. Retrieved [March 2025], from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Exciter%20SEXS_PTI.htm
+[**Powerworld2025SEXSPTI**] PowerWorld Corporation. SEXS_PTI exciter model. PowerWorld. Retrieved [March 2025] from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Exciter%20SEXS_PTI.htm
+[**NEPLANv555Exciter**] NEPLAN AG. Exciter Models. Standard Dynamic Excitation Systems in NEPLAN Power System Analysis Tool. Retrieved [March 2025] from https://www.neplan.ch/wp-content/uploads/2015/08/Nep_EXCITERS1.pdf
