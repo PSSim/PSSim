@@ -13,5 +13,19 @@ $$
 $$
 
 $$
-\frac{V_{r}}{dt} = \frac{1}{T_{b}} \left( \left( 1-\frac{T_{a}}{T_{b}}\right) \left( V_{ref}-V_{t} \right) - V_{r} \right)
+\frac{V_{r}}{dt} = \frac{1}{T_{b}} \left(( 1-\frac{T_{a}}{T_{b}})( V_{ref}-V_{t} ) - V_{r} \right)
 $$
+
+$$
+E_{fd-sat} =
+\begin{cases} 
+    E_{fd}, & V_{min} \leq E_{fd} \leq V_{max}\\
+    V_{min}, & E_{fd} < V_{min} \\
+    V_{max}, & E_{fd} > V_{max}
+\end{cases}
+$$
+
+Note: $E_{fd-sat}$ connects the SGs model with the exciter. 
+
+# Reference
+[**Powerworld2025SEXSPTI**] PowerWorld Corporation. SEXS_PTI exciter model. PowerWorld. Retrieved [March 2025], from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Exciter%20SEXS_PTI.htm
