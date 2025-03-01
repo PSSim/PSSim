@@ -1,5 +1,5 @@
 # IEESGO Governor/Turbine Model
-Short Description
+The IEESGO is a general-purpose turbine-governor model. By choosing proper parameters, this model gives a good representation of a steam turbine with a reheat stage or an approximate representation of a hydro turbine of a simple configuration.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5cb04ebc-7cc9-4ebb-996f-bde774c5ce2a" width="500">
 </div>
@@ -32,6 +32,21 @@ y_2 =
     P_C - P_{\text{max}}, & P_{\text{max}} < P_C - y_{2i} \\
     y_{2i}, & P_{\text{min}} \leq P_C - y_{2i} \leq P_{\text{max}}
 \end{cases}
+$$
+
+# Typical Data
+A list of typical parameters is shown below:
+
+$$
+\begin{align}
+T_1 &= 0.30 \\
+T_2 &= 5.00 \\
+T_3 &= 12.0 \\
+T_4 &= 0.10 \\
+K_1 &= 30 \\
+P_{min} &= 0.00 \\
+P_{max} &= 10.00 \\
+\end{align}
 $$
 
 # Reference
