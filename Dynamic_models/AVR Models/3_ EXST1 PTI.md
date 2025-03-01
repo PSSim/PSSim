@@ -55,7 +55,22 @@ $$
 Note: $I_{fd}$ is the field current associated with $E_{fd}$, while $i_d$ and $i_q$ are the injected currents at the point of interconnection.
 
 # Typical Data
+A list of typical parameters is shown below:
 
+$$
+\begin{align}
+K_a &= 80 \\
+T_a &= 0.05 \\
+K_f &= 0.10 \\
+T_f &= 1.00 \\
+T_b &= 1.00 \\
+T_r &= 0.01 \\
+T_c &= 1.00 \\
+K_c &= 0.20 \\
+V_{rmin} &= -3.00 \\
+V_{rmax} &= 8.00 \\
+\end{align}
+$$
 
 # Reference
 - [**Powerworld2025EXST1PTI**] PowerWorld Corporation. (2025). Exciter model: EXST1_PTI. Retrieved March 1, 2025, from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Exciter%20EXST1_PTI.htm?tocpath=Transient%20Stability%20Add-On%20(TS)%7CTransient%20Models%7CGenerator%7CExciter%7C_____66
