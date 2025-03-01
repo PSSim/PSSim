@@ -1,5 +1,5 @@
 # IEEE Type I Exciter
-Short description
+The IEEE type-1 exciter models the use of a DC generator as an amplifier and exciter. The regulator section allows automatic voltage control by comparing the signals (terminal voltage) with a reference and amplifying the error signal.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ac8fd7f8-ca1f-4a66-a3d6-c2a41eed3824" width="400">
 </div>
