@@ -1,5 +1,5 @@
 # Steam Turbine-Governor Model
-Short description
+The TGOV1 represents a team governor/turbine system. This model presents a governor action, reheater time constant, and the ratio of a high-pressure turbine.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a23d56af-4c7b-4ebb-92a2-243e299d1727" width="450">
@@ -28,6 +28,9 @@ y_{1-sat} =
     P_{max}, & P_{\text{max}} < y_{1} 
 \end{cases}
 $$
+
+# Typical Data
+
 
 # Reference
 [**Powerworld2025TGOV1**] PowerWorld Corporation. (2025). Governor model: TGOV1 and TGOV1D. Retrieved March 1, 2025, from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Governor%20TGOV1%20and%20TGOV1D.htm
