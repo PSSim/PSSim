@@ -30,7 +30,19 @@ y_{1-sat} =
 $$
 
 # Typical Data
+A list of typical parameters is shown below:
 
+$$
+\begin{align}
+T_1 &= 0.25 \\
+T_2 &= 2.50 \\
+T_3 &= 9.00 \\
+K_1 &= 20 \\
+D_t &= 0.25 \\
+P_{min} &= 0.00 \\
+P_{max} &= 10.00 \\
+\end{align}
+$$
 
 # Reference
 [**Powerworld2025TGOV1**] PowerWorld Corporation. (2025). Governor model: TGOV1 and TGOV1D. Retrieved March 1, 2025, from https://www.powerworld.com/WebHelp/Content/TransientModels_HTML/Governor%20TGOV1%20and%20TGOV1D.htm
