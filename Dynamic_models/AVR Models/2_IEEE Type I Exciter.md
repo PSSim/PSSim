@@ -23,5 +23,8 @@ $$
 \text{with} \quad V_R^{min} \leq V_R \leq V_R^{max}
 $$
 
+# Typical Data
+
+
 # Reference
 [**Pulgar2020Power**] Pulgar, H. A. (2020, Spring). Part 2: Power system models [Lecture slides]. ECE-692 Advanced Power System Modeling and Analysis, University of Tennessee, Knoxville.
