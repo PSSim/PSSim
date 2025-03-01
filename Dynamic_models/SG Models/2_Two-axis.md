@@ -5,5 +5,5 @@ This model represents the direct and quadrature sub-transient flux linkage dynam
 
 # Equations
 $$
-\right[ a = 2 \left]
+\left[ a = 2 \right]
 $$
