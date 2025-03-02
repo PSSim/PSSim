@@ -12,8 +12,8 @@ PSSim was designed and created by Sebastian Martinez, Francisco Zelaya, and Hect
 </div>
 
 Contact information: 
-hpulgar@utk.edu
 smart118@vols.utk.edu
 fzelayaa@vols.utk.edu
+hpulgar@utk.edu
 
 V1 - March 2025
