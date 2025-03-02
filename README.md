@@ -1,5 +1,7 @@
 # PSSim: Power System Simulator
 
+PSSim is a MATLAB-based power system dynamic simulator designed for research on power system dynamics and control. It includes power flow analysis, time-domain RMS simulation, and small-signal stability analysis. PSSim is not intended to replace or compete with other MATLAB-, Python-, or other programming language-based simulators but rather to provide a simple yet effective research tool. Its main focus is to serve as an educational resource, demonstrating fundamental simulator structures, models, and practices used in open-source and commercial software for power system analysis. It also offers comprehensive functions for developing and testing new control and analysis solutions in power systems.
+
 Created by SPEED lab at The University of Tennessee, Knoxville.
 
 SPEED lab is under the direction of Dr. Hector Pulgar. 
