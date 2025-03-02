@@ -10,7 +10,7 @@ Includes:
 
 :white_check_mark: Small-signal stability analysis.
 
-PSSim is not intended to replace or compete with other MATLAB-, Python-, or other programming language-based simulators but rather to provide a simple yet effective research tool. Its main focus is to serve as an educational resource, demonstrating fundamental simulator structures, models, and practices used in open-source and commercial software for power system analysis. It also offers comprehensive functions for developing and testing new control and analysis solutions in power systems.
+PSSim's main focus is to serve as an educational resource, demonstrating fundamental simulator structures, models, and practices used in open-source and commercial software for power system analysis. It also offers comprehensive functions for developing and testing new control and analysis solutions in power systems. It is not intended to replace or compete with other simulators based on MATLAB, Python, or other programming languages, but rather to provide a simple yet effective research tool that students and educators can use to learn and teach fundamental concepts.
 
 Created by SPEED lab at The University of Tennessee, Knoxville. SPEED lab is under the direction of Dr. Hector Pulgar. 
 
