@@ -1,4 +1,4 @@
-# Description
+# Description 68-bus system
 The IEEE 68-bus system is an extended test case representing a portion of the actual U.S. Eastern Interconnection, making it highly valuable for power system stability and dynamic analysis. It consists of 68 buses, 16 generators, 35 loads, and 84 transmission lines, modeled on a 100 MVA base. The system includes detailed generator models with excitation systems and governors. It features both large and small-area stability dynamics, making it ideal for studying power flow, transient stability, small-signal stability, voltage stability, and control strategies. Due to its complexity and real-world relevance, the IEEE 68-bus system is widely used in research and education for advanced power system analysis.
 
 <div align="center">
