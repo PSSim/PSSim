@@ -1,7 +1,7 @@
-# Inital condition Event
+# Inital Condition Event
 Short Description
 
-Systme used
+System used
 
 Steps
 
@@ -10,4 +10,4 @@ Link to Video
 # Results
 Plots
 
-Expectiation: all steady state
+Expectation: all steady state
