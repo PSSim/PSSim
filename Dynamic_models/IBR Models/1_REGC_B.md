@@ -12,10 +12,10 @@ The model consists of 4 differential equations, plus 4 algebraic equations (Inte
 
 $$
 \begin{align}
-i_{iq} &= \frac{-1}{T_Q} \left( I_{Qcmd} + i_{iq} \right) \\
-i_{id} &= \frac{1}{T_D} \left( I_{Pcmd} - i_{id} \right) \\
-E_{x} &= \frac{1}{T_{ed}} \left( E_{d} - E_{x} \right) \\
-E_{y} &= \frac{1}{T_{eq}} \left( E_{q} - E_{y} \right)
+\frac{di_{iq}}{dt}  &= \frac{-1}{T_Q} \left( I_{Qcmd} + i_{iq} \right) \\
+\frac{di_{id}}{dt}  &= \frac{1}{T_D} \left( I_{Pcmd} - i_{id} \right) \\
+\frac{dE_{x}}{dt}  &= \frac{1}{T_{ed}} \left( E_{d} - E_{x} \right) \\
+\frac{dE_{y}}{dt}  &= \frac{1}{T_{eq}} \left( E_{q} - E_{y} \right)
 \end{align}
 $$
 
