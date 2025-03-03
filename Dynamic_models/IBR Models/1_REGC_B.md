@@ -40,6 +40,20 @@ $$
 
 Note: $v_d$ and $v_q$ are the terminal voltages in the d-q axis. This model assumes that the d-axis is aligned with the terminal voltage, such that $v_q=0$ and a PLL is not necessary to track the grid voltage.
 
+# Typical Data
+A list of typical parameters is shown below:
+
+$$
+\begin{aligned}
+T_Q &= 0.01  \\
+T_D &= 0.01  \\
+T_{eq} &= 0.01 \\
+T_{ed} &= 0.01 \\
+R_{f} &= 0.004 \\
+X_{f} &= 0.05
+\end{aligned}
+$$
+
 # References
 - Ramasubramanian, D., Yu, Z., Ayyanar, R., Vittal, V., & Undrill, J. (2016). Converter model for representing converter interfaced generation in large scale grid simulations. IEEE Transactions on Power Systems, 32(1), 765-773.
 - Farantatos, E. (2018). Model user guide for generic renewable energy system models. Technical Update 3002014083, EPRI.
