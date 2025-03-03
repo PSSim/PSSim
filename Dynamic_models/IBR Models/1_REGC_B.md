@@ -1,5 +1,5 @@
 # REGC_B Model
-The Renewable Energy Generator/Converter (REGC) processes the real (Ipcmd) and reactive (Iqcmd) current commands from the REEC model and controls the output of real (Ip) and reactive (Iq) current injection to the grid.
+The Renewable Energy Generator/Converter (REGC) processes the real ($I_{Pcmd}$) and reactive ($I_{Qcmd}$) current commands from the control model and controls the output of real ($ip$) and reactive ($iq$) current injection to the grid.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/953e391a-0091-47f2-aaab-eb713abe9119" width="500">
