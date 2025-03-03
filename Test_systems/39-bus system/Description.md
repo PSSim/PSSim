@@ -6,10 +6,10 @@ The IEEE 39-bus system, also known as the New England power system, is a widely 
 </div>
 
 # References:
-[1] G. W. Bills, et.al., "On-Line Stability Analysis Study" RP90-1 Report for the Edison Electric Institute, October 12, 1970, pp. 1-20 - 1-35. 
+G. W. Bills, et.al., "On-Line Stability Analysis Study" RP90-1 Report for the Edison Electric Institute, October 12, 1970, pp. 1-20 - 1-35. 
 
-[2] M. A. Pai, Energy Function Analysis for Power System Stability, Kluwer Academic Publishers, Boston, 1989. (references [3] as a source of data)
+M. A. Pai, Energy Function Analysis for Power System Stability, Kluwer Academic Publishers, Boston, 1989. (references [3] as a source of data)
 
-[3] Athay, T.; Podmore, R.; Virmani, S., "A Practical Method for the Direct Analysis of Transient Stability," IEEE Transactions on Power Apparatus and Systems, vol.PAS-98, no.2, pp.573-584, March 1979. URL: https://doi.org/10.1109/TPAS.1979.319407 (references [1] as a source of data)
+Athay, T.; Podmore, R.; Virmani, S., "A Practical Method for the Direct Analysis of Transient Stability," IEEE Transactions on Power Apparatus and Systems, vol.PAS-98, no.2, pp.573-584, March 1979. URL: https://doi.org/10.1109/TPAS.1979.319407 (references [1] as a source of data)
 
-[4] Data included with TC Calculator at http://www.pserc.cornell.edu/tcc/ for the 39-bus system.
+Data included with TC Calculator at http://www.pserc.cornell.edu/tcc/ for the 39-bus system.
