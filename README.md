@@ -14,8 +14,8 @@ PSSim is an educational tool for power system analysis, showcasing fundamental s
 
 Created by SPEED lab at The University of Tennessee, Knoxville. SPEED lab is under the direction of Dr. Hector Pulgar. 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5ea5a29-9657-4eca-a546-c197115d6ae1" width="600">
-  <img src="https://github.com/user-attachments/assets/ee1325af-9699-475b-a22c-7ea64c6c94d3" width="600">
+  <img src="https://github.com/user-attachments/assets/c5ea5a29-9657-4eca-a546-c197115d6ae1" width="500">
+  <img src="https://github.com/user-attachments/assets/ee1325af-9699-475b-a22c-7ea64c6c94d3" width="500">
 </div>
 
 
