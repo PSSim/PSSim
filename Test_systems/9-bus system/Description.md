@@ -5,11 +5,9 @@ The IEEE 9-bus system is a small but representative power system test case used 
   <img src="https://github.com/user-attachments/assets/478d4273-fb73-48a4-90f4-bbc27b73c267" width="700">
 </div>
 
-
-
-* Please see CASEFORMAT for details on the case file format.
-
 # References
-[???] Chow, J. H., editor. Time-Scale Modeling of Dynamic Networks with Applications to Power Systems. Springer-Verlag, 1982.
-[???] R.P. Schulz, A.E. Turner and D.N. Ewart, "Long Term Power System Dynamics," EPRI Report 90-7-0, Palo Alto, California, 1974.
-[] Sauer
+Chow, J. H., editor. Time-Scale Modeling of Dynamic Networks with Applications to Power Systems. Springer-Verlag, 1982.
+
+R.P. Schulz, A.E. Turner and D.N. Ewart, "Long Term Power System Dynamics," EPRI Report 90-7-0, Palo Alto, California, 1974.
+
+Sauer, P. W., Pai, M. A., & Chow, J. H. (2017). Power system dynamics and stability: with synchrophasor measurement and power system toolbox. John Wiley & Sons.
