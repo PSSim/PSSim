@@ -5,7 +5,7 @@ This control is based on [Ramasubramanian, D., 2016.]. The main intention is to 
   <img src="https://github.com/user-attachments/assets/0b932e26-29be-4ea4-bc93-e5ec216eec2c" width="300">
 </div>
 
-# PQ Control System Equations
+# PQ control system equations
 The model consists of 4 differential equations, plus 2 algebraic equations. The list of equations is shown below:
 
 $$
