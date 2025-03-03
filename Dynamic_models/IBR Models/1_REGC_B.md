@@ -2,7 +2,7 @@
 The Renewable Energy Generator/Converter (REGC) processes the real (Ipcmd) and reactive (Iqcmd) current commands from the REEC model and controls the output of real (Ip) and reactive (Iq) current injection to the grid.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/953e391a-0091-47f2-aaab-eb713abe9119" width="450">
+<img src="https://github.com/user-attachments/assets/953e391a-0091-47f2-aaab-eb713abe9119" width="500">
 </div>
 
 # Renewable Energy Generator/Converter System Equations
