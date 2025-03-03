@@ -10,4 +10,4 @@ Link to Video
 # Results
 Plots
 
-Expectation: P stepoint is seen as a change in power balance in the grid
+Expectation: P setpoint is seen as a change in power balance in the grid
