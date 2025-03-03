@@ -15,7 +15,7 @@ $$
 \frac{ds_{4}}{dt} &= K_{ip} \left( P_{cmd}- P_g \right) \\
 \frac{ds_{5}}{dt} &= \frac{1}{T_{r}}  \left( v_{t}- s_5 \right) \\
 \frac{ds_{6}}{dt} &= K_{i} \left( V_{ref}- s_5 - R_q Q_g \right) \\
-\frac{ds_{3}}{dt} &= \frac{1}{T_{frq}} \left( \omega_{est} - 1 - s_7 \right) \\
+\frac{ds_{7}}{dt} &= \frac{1}{T_{frq}} \left( \omega_{est} - 1 - s_7 \right) \\
 I_{Qcmd}          &= s_2 + \frac{Q_{cmd}}{|v_{t}|} \\
 I_{Pcmd}          &= s_4 + \frac{P_{cmd}}{|v_{t}|}
 \end{align}
