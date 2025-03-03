@@ -51,3 +51,6 @@ P_{min} &= 0.00 \\
 P_{max} &= 1.00 \\
 \end{align}
 $$
+
+# References
+- Ramasubramanian, D., Yu, Z., Ayyanar, R., Vittal, V., & Undrill, J. (2016). Converter model for representing converter interfaced generation in large scale grid simulations. IEEE Transactions on Power Systems, 32(1), 765-773.
