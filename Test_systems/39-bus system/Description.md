@@ -1,9 +1,9 @@
 # Description
 The IEEE 39-bus system, also known as the New England power system, is a widely used benchmark for power system stability and dynamic analysis. It consists of 39 buses, 10 generators, 19 loads, and 46 transmission lines, modeled on a 100 MVA base. The system represents a portion of the New England power grid, with bus 39 serving as the slack bus. The IEEE 39-bus system is frequently used for power flow analysis, transient stability, small-signal stability, voltage stability studies, and control strategy testing.
 
-
-![Screen Shot 2025-03-03 at 10 47 23 AM](https://github.com/user-attachments/assets/838e5014-13a7-453d-9587-bd67fd494384)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/838e5014-13a7-453d-9587-bd67fd494384" width="700">
+</div>
 
 # References:
 [1] G. W. Bills, et.al., "On-Line Stability Analysis Study" RP90-1 Report for the Edison Electric Institute, October 12, 1970, pp. 1-20 - 1-35. 
