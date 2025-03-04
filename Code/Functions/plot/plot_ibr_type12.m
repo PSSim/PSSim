@@ -53,7 +53,7 @@ IPcmd = z(:,pointer_av_ibr(ii)+7);
 % Algebraic variables
 V     = z(:,nsv+nav-2*n+k);
 theta = z(:,nsv+nav-n+k);
-w_est = z(:,nav-3*n+k);
+w_est = z(:,nsv+nav-3*n+k);
 phi   = theta;
 
 % Indirect variables
