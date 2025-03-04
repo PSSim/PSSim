@@ -6,7 +6,7 @@ if l ~= 0
 end
 
 % Select an SG and IBR to plot
-i  = 13; % SG  to plot
+i  = 2; % SG  to plot
 ii = 2; % IBR to plot
 
 %% SG plots
