@@ -18,11 +18,9 @@ Created by SPEED lab at The University of Tennessee, Knoxville. SPEED lab is und
   <img src="https://github.com/user-attachments/assets/ee1325af-9699-475b-a22c-7ea64c6c94d3" width="400">
 </div>
 
-
-PSSim was designed and created by Sebastian Martinez, Francisco Zelaya, and Hector Pulgar. 
-Contact information: 
-smart118@vols.utk.edu
-fzelayaa@vols.utk.edu
-hpulgar@utk.edu
-
+### Contributors
+- Sebastian Martinez (smart118@vols.utk.edu)
+- Francisco Zelaya (fzelayaa@vols.utk.edu)
+- Hector Pulgar (hpulgar@utk.edu)
+  
 V1 - March 2025
