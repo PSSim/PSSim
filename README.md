@@ -1,5 +1,3 @@
-[![DOI](https://sandbox.zenodo.org/badge/940800216.svg)](https://handle.stage.datacite.org/10.5072/zenodo.198422)
-
 # PSSim: Power System Simulator
 
 PSSim is a MATLAB-based power system dynamic simulator designed for research on power system dynamics and control :zap::technologist:. 
