@@ -1,2 +1,13 @@
 ## Requiered Improvements: 
 - Folders and subfolders need to be authomatic added to the path.
+
+Solution:
+
+Add the following lines of code to main.m file:
+
+% Get the path of the currently running script or function
+mainFolder = fileparts(mfilename('fullpath'));
+
+% Add the main folder and all its subfolders to the MATLAB path
+addpath(mainFolder);            % Add the main folder
+addpath(genpath(mainFolder));   % Add all subfolders recursively
